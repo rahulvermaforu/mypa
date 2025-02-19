@@ -1,0 +1,6 @@
+@mypa.webapi_HostAddress = http://localhost:5269
+
+GET {{mypa.webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
